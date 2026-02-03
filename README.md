@@ -13,7 +13,7 @@ The Mamba module in this paper is the standard Mamba module.
 
 ## How to use it?
 ----------
-
+The full implementation code will be available later this year,
 
 ## Citation
 ----------
