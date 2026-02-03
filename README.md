@@ -1,6 +1,7 @@
 # Contrastive Prototype Clustering for Multimodal  Remote Sensing Data Based on Spectral-Spatial  Cross Mamba
+Contrastive Prototype Clustering Framework
 <img width="1440" height="365" alt="cpc" src="https://github.com/user-attachments/assets/0987d505-2158-49ee-bf94-05d1630b4a4d" />
-
+Spectral-Spatial  Cross Mamba Module
 <img width="1460" height="615" alt="07c37c72-dd8d-44d3-bb31-4622ff3e9677" src="https://github.com/user-attachments/assets/f47d3877-4450-4ca7-83a2-fcec38b5a680" />
 
 
