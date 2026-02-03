@@ -1,5 +1,5 @@
 # Contrastive Prototype Clustering for Multimodal  Remote Sensing Data Based on Spectral-Spatial  Cross Mamba
-<img width="5116" height="2210" alt="网络图" src="https://github.com/user-attachments/assets/a427cb25-09be-4f8a-a80a-62c5d2920950" />
+
 
 ----------
 ## Li Lv, Zhenyang Xie, Hongmin Gao, Shufang Xu, Zhenzhen Li, Haihua Xie, Dongxiao Liu
