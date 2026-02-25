@@ -20,7 +20,8 @@ This toolbox contains a model (named CPCM), including modules folder for data pr
 ----------
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Zhenyang Xie, Li Lv, Hongmin Gao, Shufang Xu, Haihua Xie. Dual-feature attention hybrid GCN Mamba network for joint hyperspectral and LiDAR classification, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025, vol. 63, pp. 1–14, Art. no. 5406514, DOI: 10.1109/TGRS.2025.3605373.
+Li Lv, Zhenyang Xie, Hongmin Gao, Shufang Xu, Zhenzhen Li, Haihua Xie, Dongxiao Liu. Contrastive Prototype Clustering for Multimodal Remote Sensing Data Based on Spectral-Spatial Cross Mamba,  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2026, vol. , pp. 1–15, Art. no. 5406514, DOI: 10.1109/JSTARS.2026.3665649.
+
 
     @ARTICLE{11397521,
       author={Lv, Li and Xie, Zhenyang and Gao, Hongmin and Xu, Shufang and Li, Zhenzhen and Xie, Haihua and Liu, Dongxiao},
