@@ -1,5 +1,6 @@
 # Contrastive Prototype Clustering for Multimodal  Remote Sensing Data Based on Spectral-Spatial  Cross Mamba
 <img width="1440" height="365" alt="cpc" src="https://github.com/user-attachments/assets/0987d505-2158-49ee-bf94-05d1630b4a4d" />
+<img width="4469" height="1876" alt="网络图" src="https://github.com/user-attachments/assets/83ee0400-45d9-4a7d-89b8-a78223a1ee71" />
 
 ----------
 ## Li Lv, Zhenyang Xie, Hongmin Gao, Shufang Xu, Zhenzhen Li, Haihua Xie, Dongxiao Liu
@@ -18,6 +19,18 @@ This toolbox contains a model (named CPCM), including modules folder for data pr
 ## Citation
 ----------
 **Please kindly cite the papers if this code is useful and helpful for your research.**
+
+Zhenyang Xie, Li Lv, Hongmin Gao, Shufang Xu, Haihua Xie. Dual-feature attention hybrid GCN Mamba network for joint hyperspectral and LiDAR classification, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025, vol. 63, pp. 1–14, Art. no. 5406514, DOI: 10.1109/TGRS.2025.3605373.
+
+    @ARTICLE{11397521,
+      author={Lv, Li and Xie, Zhenyang and Gao, Hongmin and Xu, Shufang and Li, Zhenzhen and Xie, Haihua and Liu, Dongxiao},
+      journal={IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens}, 
+      title={Contrastive Prototype Clustering for Multimodal Remote Sensing Data Based on Spectral-Spatial Cross Mamba}, 
+      year={2026},
+      volume={},
+      number={},
+      pages={1-15},
+      doi={10.1109/JSTARS.2026.3665649}}
 
 
 
