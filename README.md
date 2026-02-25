@@ -13,7 +13,7 @@ The Mamba module in this paper is the standard Mamba module.
 
 ## How to use it?
 ----------
-The full implementation code will be available later this year,
+This toolbox contains a model (named CPCM), including modules folder for data processing, loss calculation and network model, and config.yaml file where you can modify the dataset and parameters. The demo.py script provides experimental examples. You just need to run demo.py and adjust the parameters in config.yaml to obtain the desired results.
 
 ## Citation
 ----------
